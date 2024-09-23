@@ -1,0 +1,126 @@
+/* Reset and base styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  body {
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Fun font for kids */
+    background-image: url("../assets/9103855.jpg");
+    display: flex;
+    background-size: cover;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    text-align: center;
+  }
+  
+  /* Trivia Game Container */
+  .trivia-game {
+    background: #ffffffc2;
+    border-radius: 15px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    padding: 20px;
+    width: 90%;
+    max-width: 600px;
+    transition: transform 0.3s ease;
+  }
+  
+  .trivia-game:hover {
+    transform: scale(1.05);
+  }
+  
+  /* Score Display */
+  .score-display {
+    font-size: 24px;
+    margin-bottom: 20px;
+    font-weight: bold;
+    color: #e21313; /* Bright color for score */
+  }
+  
+  /* Question Card */
+  .question-card {
+    background: #ffecb3; /* Light yellow for questions */
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Options */
+  .option {
+    background: #4313e2; /* Green for options */
+    color: white;
+    padding: 10px;
+    border-radius: 8px;
+    margin: 5px 0;
+    cursor: pointer;
+    transition: background 0.3s ease;
+  }
+  
+  .option:hover {
+    background: #388e3c; /* Darker green on hover */
+  }
+  
+  /* Button */
+  button {
+    background: #2196f3; /* Blue for buttons */
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background 0.3s ease;
+  }
+  
+  button:hover {
+    background: #1976d2; /* Darker blue on hover */
+  }
+  
+  /* Animations */
+  @keyframes bounce {
+    0%, 20%, 50%, 80%, 100% {
+      transform: translateY(0);
+    }
+    40% {
+      transform: translateY(-10px);
+    }
+    60% {
+      transform: translateY(-5px);
+    }
+  }
+  
+  .question-card {
+    animation: bounce 0.5s ease;
+  }
+  
+  /* Media Queries for Responsiveness */
+  @media (max-width: 600px) {
+    .trivia-game {
+      padding: 10px;
+    }
+  
+    .score-display {
+      font-size: 20px;
+    }
+  
+    button {
+      font-size: 16px;
+    }
+  }
+
+  /* Correct answer */
+.correct {
+    background: #4caf50; /* Green background for correct answers */
+    color: white;
+  }
+  
+  /* Incorrect answer */
+  .incorrect {
+    background: #f44336; /* Red background for incorrect answers */
+    color: white;
+  }
+  
+  

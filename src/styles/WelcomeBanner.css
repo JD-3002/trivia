@@ -1,0 +1,27 @@
+.welcome-banner {
+    background: linear-gradient(135deg, #11ba00, #f0e130); /* Bright gradient */
+    border-radius: 15px;
+    padding: 20px;
+    text-align: center;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
+  }
+  
+  .welcome-banner h1 {
+    font-family: 'Comic Sans MS', cursive, sans-serif; /* Fun font */
+    color: #333; /* Dark color for text */
+    font-size: 2.5rem; /* Large font size */
+    text-shadow: 2px 2px 4px rgba(255, 255, 255, 0.7); /* Text shadow for depth */
+    animation: fadeIn 1s ease; /* Fade-in animation */
+  }
+  
+  /* Animation for fade-in effect */
+  @keyframes fadeIn {
+    from {
+      opacity: 0;
+    }
+    to {
+      opacity: 1;
+    }
+  }
+  

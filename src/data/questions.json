@@ -1,0 +1,243 @@
+[
+    {
+      "question": "What does RAM stand for?",
+      "options": ["Read Access Memory", "Random Access Memory", "Run Access Memory", "Rapid Access Memory"],
+      "answer": "Random Access Memory"
+    },
+    {
+      "question": "What does a computer's operating system do?",
+      "options": ["Controls hardware", "Manages software", "Provides a user interface", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "question": "Which device is used to connect to the internet wirelessly?",
+      "options": ["Router", "Modem", "Switch", "Cable"],
+      "answer": "Router"
+    },
+    {
+      "question": "What is the main function of a hard drive?",
+      "options": ["To process data", "To store data", "To display data", "To input data"],
+      "answer": "To store data"
+    },
+    {
+      "question": "Which software is used to browse the internet?",
+      "options": ["Word Processor", "Spreadsheet", "Web Browser", "Media Player"],
+      "answer": "Web Browser"
+    },
+    {
+      "question": "What is a common input device?",
+      "options": ["Printer", "Scanner", "Keyboard", "Monitor"],
+      "answer": "Keyboard"
+    },
+    {
+      "question": "What does the 'C' in Wi-Fi stand for?",
+      "options": ["Computer", "Connection", "Wireless", "None of the above"],
+      "answer": "None of the above"
+    },
+    {
+      "question": "What do you call a computer program that performs a specific task?",
+      "options": ["Application", "Operating System", "Hardware", "Firmware"],
+      "answer": "Application"
+    },
+    {
+      "question": "Which part of the computer displays the visual output?",
+      "options": ["CPU", "RAM", "Monitor", "Keyboard"],
+      "answer": "Monitor"
+    },
+    {
+      "question": "What is the purpose of a printer?",
+      "options": ["To input data", "To store data", "To output data", "To process data"],
+      "answer": "To output data"
+    },
+    {
+      "question": "What is a virus in computer terms?",
+      "options": ["A type of software", "A harmful program", "A system update", "A data backup"],
+      "answer": "A harmful program"
+    },
+    {
+      "question": "What does the 'S' in SSD stand for?",
+      "options": ["Static", "Solid", "Simple", "Stored"],
+      "answer": "Solid"
+    },
+    {
+      "question": "Which of the following is an operating system?",
+      "options": ["Google Chrome", "Windows", "Microsoft Word", "Adobe Reader"],
+      "answer": "Windows"
+    },
+    {
+      "question": "What does HTTP stand for?",
+      "options": ["HyperText Transfer Protocol", "HighText Transfer Protocol", "HyperText Transfer Process", "Hyper Transfer Text Protocol"],
+      "answer": "HyperText Transfer Protocol"
+    },
+    {
+      "question": "What is a common file extension for images?",
+      "options": [".jpg", ".exe", ".txt", ".zip"],
+      "answer": ".jpg"
+    },
+    {
+      "question": "What is the purpose of an antivirus program?",
+      "options": ["To speed up the computer", "To protect against malware", "To manage files", "To edit photos"],
+      "answer": "To protect against malware"
+    },
+    {
+      "question": "Which of the following is not a programming language?",
+      "options": ["Python", "Java", "HTML", "Google"],
+      "answer": "Google"
+    },
+    {
+      "question": "What is the primary function of the CPU?",
+      "options": ["To store data", "To process instructions", "To display output", "To manage software"],
+      "answer": "To process instructions"
+    },
+    {
+      "question": "What is phishing?",
+      "options": ["A type of coding", "A method of stealing personal information", "A computer game", "A hardware component"],
+      "answer": "A method of stealing personal information"
+    },
+    {
+      "question": "Which device converts digital data into printed format?",
+      "options": ["Scanner", "Monitor", "Printer", "Speaker"],
+      "answer": "Printer"
+    },
+    {
+      "question": "What does 'byte' refer to?",
+      "options": ["A unit of digital information", "A type of software", "A computer virus", "A hardware component"],
+      "answer": "A unit of digital information"
+    },
+    {
+      "question": "What is cloud storage?",
+      "options": ["Storing data on a local drive", "Storing data on the internet", "Storing data on a USB drive", "Storing data in RAM"],
+      "answer": "Storing data on the internet"
+    },
+    {
+      "question": "Which of the following is a type of malware?",
+      "options": ["Trojan", "Spreadsheet", "Web Browser", "Operating System"],
+      "answer": "Trojan"
+    },
+    {
+      "question": "What is a search engine?",
+      "options": ["A program to edit photos", "A program to find information on the web", "A device for printing", "A type of computer"],
+      "answer": "A program to find information on the web"
+    },
+    {
+      "question": "What is the main function of a modem?",
+      "options": ["To print documents", "To connect to the internet", "To store data", "To manage files"],
+      "answer": "To connect to the internet"
+    },
+    {
+      "question": "What does BIOS stand for?",
+      "options": ["Basic Input Output System", "Binary Input Output System", "Basic Integrated Operating System", "Binary Integrated Operating System"],
+      "answer": "Basic Input Output System"
+    },
+    {
+      "question": "Which of the following is used to store large amounts of data?",
+      "options": ["RAM", "Cache", "SSD", "CPU"],
+      "answer": "SSD"
+    },
+    {
+      "question": "What is the purpose of a firewall?",
+      "options": ["To protect against unauthorized access", "To speed up the internet", "To print documents", "To store files"],
+      "answer": "To protect against unauthorized access"
+    },
+    {
+      "question": "Which part of the computer is known as the 'motherboard'?",
+      "options": ["Main circuit board", "CPU", "Power supply", "Hard drive"],
+      "answer": "Main circuit board"
+    },
+    {
+      "question": "What is an IP address?",
+      "options": ["A unique identifier for a device on the internet", "A type of software", "A hardware component", "A network protocol"],
+      "answer": "A unique identifier for a device on the internet"
+    },
+    {
+      "question": "What is the purpose of a cache?",
+      "options": ["To store frequently accessed data", "To save documents", "To print images", "To run applications"],
+      "answer": "To store frequently accessed data"
+    },
+    {
+      "question": "What does it mean to 'boot' a computer?",
+      "options": ["To turn it off", "To install software", "To start up the operating system", "To print documents"],
+      "answer": "To start up the operating system"
+    },
+    {
+      "question": "Which programming language is often used for web development?",
+      "options": ["C++", "JavaScript", "Python", "Swift"],
+      "answer": "JavaScript"
+    },
+    {
+      "question": "What does a computer network allow?",
+      "options": ["Sharing resources", "Storing data", "Running applications", "None of the above"],
+      "answer": "Sharing resources"
+    },
+    {
+      "question": "What is the function of a graphics card?",
+      "options": ["To process audio", "To manage network connections", "To render images", "To store data"],
+      "answer": "To render images"
+    },
+    {
+      "question": "What does 'URL' stand for?",
+      "options": ["Uniform Resource Locator", "Universal Resource Link", "Uniform Resource Link", "Universal Resource Locator"],
+      "answer": "Uniform Resource Locator"
+    },
+    {
+      "question": "Which of the following is an example of an input device?",
+      "options": ["Monitor", "Speaker", "Keyboard", "Printer"],
+      "answer": "Keyboard"
+    },
+    {
+      "question": "What is a website?",
+      "options": ["A collection of web pages", "A type of software", "A computer virus", "A hardware component"],
+      "answer": "A collection of web pages"
+    },
+    {
+      "question": "What is encryption?",
+      "options": ["A method of securing data", "A type of software", "A programming language", "A hardware component"],
+      "answer": "A method of securing data"
+    },
+    {
+      "question": "What does 'open source' mean?",
+      "options": ["Software with restricted access", "Software with publicly available source code", "Software that is always free", "Software that requires a subscription"],
+      "answer": "Software with publicly available source code"
+    },
+    {
+      "question": "What is a software update?",
+      "options": ["A new version of software", "A method of data backup", "A type of hardware", "A virus"],
+      "answer": "A new version of software"
+    },
+    {
+      "question": "Which of the following is a popular web browser?",
+      "options": ["Google Chrome", "Microsoft Word", "Adobe Photoshop", "PowerPoint"],
+      "answer": "Google Chrome"
+    },
+    {
+      "question": "What does the term 'bandwidth' refer to?",
+      "options": ["The amount of data that can be transmitted", "The speed of the processor", "The size of RAM", "The storage capacity"],
+      "answer": "The amount of data that can be transmitted"
+    },
+    {
+      "question": "What is a plugin?",
+      "options": ["A type of hardware", "A software extension", "A programming language", "A computer virus"],
+      "answer": "A software extension"
+    },
+    {
+      "question": "What does 'GUI' stand for?",
+      "options": ["Graphical User Interface", "General User Interface", "Graphical Unified Interface", "General Unified Interface"],
+      "answer": "Graphical User Interface"
+    },
+    {
+      "question": "What is a motherboard?",
+      "options": ["The main circuit board of a computer", "A type of software", "A hardware component for audio", "A storage device"],
+      "answer": "The main circuit board of a computer"
+    },
+    {
+      "question": "What is the purpose of a user manual?",
+      "options": ["To teach how to use a product", "To advertise a product", "To list product prices", "To store product information"],
+      "answer": "To teach how to use a product"
+    },
+    {
+      "question": "Which part of the computer stores data permanently?",
+      "options": ["RAM", "CPU", "Hard drive", "Cache"],
+      "answer": "Hard drive"
+    }
+  ]
+  
